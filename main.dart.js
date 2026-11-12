@@ -140683,7 +140683,7 @@ o=s.x
 o=o==null?n:o.a
 o=o==null?n:o.fx
 p=o===!0?"\u6c11\u570b "+(p-1911)+" \u5e74":""+p+" \u5e74"
-A.bM_("\u6696\u85aa Warmwage","2026 \u6cd5\u898f\u7248\u30fb\u7248\u672c 7ff1e2a",A.b([B.bHb,B.aC,A.x("\u6700\u4f4e\u5de5\u8cc7\uff1a"+p+"\u6708\u85aa "+A.a2(r.b)+"\uff0f\u6642\u85aa "+A.a2(r.c)+"\uff08"+r.d+"\uff0c"+s.cy.b.c+"\uff09\u3002\u8cc7\u6599\u4f86\u6e90\uff1ahttps://cdn.jsdelivr.net/gh/zhi410/my_wage_api@main/minimum_wage.json",n,n,n,n,n,n,n,n,n),B.aC,B.bG_,B.aC,B.bH8,B.aC,B.bG8],t.p),q)
+A.bM_("\u6696\u85aa Warmwage","2026 \u6cd5\u898f\u7248\u30fb\u7248\u672c 74430ff",A.b([B.bHb,B.aC,A.x("\u6700\u4f4e\u5de5\u8cc7\uff1a"+p+"\u6708\u85aa "+A.a2(r.b)+"\uff0f\u6642\u85aa "+A.a2(r.c)+"\uff08"+r.d+"\uff0c"+s.cy.b.c+"\uff09\u3002\u8cc7\u6599\u4f86\u6e90\uff1ahttps://cdn.jsdelivr.net/gh/zhi410/my_wage_api@main/minimum_wage.json",n,n,n,n,n,n,n,n,n),B.aC,B.bG_,B.aC,B.bH8,B.aC,B.bG8],t.p),q)
 s=n
 break A}return s},
 $S:32}
@@ -142519,7 +142519,7 @@ r.push(B.yy)
 r.push(new A.VU(k.dx,j))
 r.push(B.aC)
 g=i.x
-r.push(A.x("\u6696\u85aa Warmwage\u30fb\u7248\u672c 7ff1e2a",B.bJK,j,j,j,j,A.a3(j,j,g,j,j,j,j,j,j,j,j,11.5,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),B.bo,j,j))
+r.push(A.x("\u6696\u85aa Warmwage\u30fb\u7248\u672c 74430ff",B.bJK,j,j,j,j,A.a3(j,j,g,j,j,j,j,j,j,j,j,11.5,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),B.bo,j,j))
 r.push(B.eX)
 r.push(A.Ck(B.ads,B.bLo,B.a0p,k.f,A.Cm(j,j,j,j,j,j,j,j,j,q,j,B.mp,j,j,new A.cK(A.b2(12),B.P),new A.aN(q,1,B.a_,-1),j,j,j,j)))
 r.push(B.bk)
